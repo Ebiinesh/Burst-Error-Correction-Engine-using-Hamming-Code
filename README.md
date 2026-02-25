@@ -1,6 +1,7 @@
 ## Overview
 
 This project implements a Burst Error Correction Engine using Hamming Code for a 16-bit data word, capable of correcting up to 4-bit burst errors using interleaving techniques. It implements encoder, syndrome generation, detection, and correction logic to accurately locate and fix errors. The complete system is realized at the transistor (schematic) level in Cadence Virtuoso, ensuring correct operation, low hardware complexity, and reliable performance across fault scenarios.
+
 ---
 
 ## Hamming Code Specifications
