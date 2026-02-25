@@ -162,7 +162,8 @@ The project includes both **encoder** and **decoder** circuits with interleaving
 ## Timing Verification
 
 Latency is calculated based on the critical path, defined as the longest signal propagation path from input to output, by summing the propagation delays of each logic gate along that path. The delay values are obtained from gate-level timing characteristics (rise delay, fall delay, and propagation delay) of fundamental gates such as NOT, AND, OR, and XOR used in the design. Component-wise delays for the Hamming encoder, transmission channel, error locator, and decoder are evaluated individually, and the overall system latency is computed across the complete data path from sender input to receiver output. For detailed calculations, timing tables, and measurement methodology, please refer to the project report.
----
+
+
 
 ## References
 
