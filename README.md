@@ -1,11 +1,3 @@
-# Hamming Code Project
-
-**Research Update 10**  
-Ebinesh K, IC Design Intern  
-20th March 2025
-
----
-
 ## Overview
 
 This project implements a **Hamming (7,4) Error Correction Code** system with encoder and decoder circuits. Hamming codes are linear error-correcting codes that can detect and correct single-bit errors in transmitted data.
